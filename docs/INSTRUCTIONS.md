@@ -24,15 +24,23 @@ Deze opdracht gaat over alle fases van de DLC  [bouwen](#bouwen), [integreren](#
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+1. Zet een Express omgeving op en deel bestanden via de ```./public/``` (optioneel) of gebruik EJS voor templating.
+2. Implementeer jouw eerste chatroom op dusdanige wijze dat deze geserveerd wordt door Express.
+3. Zet socket.io op. Maak een basic real-time chatroom welke gebruik maakt van sockets. Minimaal kan een client een bericht sturen welke een *round-trip* maakt naar de clients.
+4. Set-up socket.io. Create a basic real-time app using sockets. Je kunt het voorbeeld uit de les gebruiken voor inspiratie!
+5. (Optioneel) Voeg extra functionaliteit van onderstaande lijst toe. Doe dit een stapje tegelijk, zoek naar voorbeelden en vraag hulp als je dat nodig hebt.
+	- Voeg support toe voor het kiezen van een *nickname*.
+	- Stuur een bericht rond als iemand *connect* of *disconnect*
+	- Voeg *{gebruiker} is aan het typen* functionaliteit toe
+	- Laat zien wie er online is
+	- Voeg *private messaging* toe
 
 #### Materiaal bouwfase
 
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+- [Express](https://expressjs.com/en/4x/api.html)
+- [socket.io](https://socket.io/)
+- [live coded example](https://github.com/ju5tu5/barebonechat)
+- [chat demo from socket.io](https://socket.io/get-started/chat/)
 
 </details>
 
@@ -42,14 +50,13 @@ Deze opdracht gaat over alle fases van de DLC  [bouwen](#bouwen), [integreren](#
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+1. Zorg dat je jouw app *deployed* via Heroku. Je kunt dit op twee manieren doen, via het verbinden van jouw GitHub repository of, moeilijker, via de command line interface (CLI).
+2. Voeg aan jouw ```Readme.md``` een link naar je live-demo en een screenshot toe. Beschrijf ook welke extra functionaliteit je toegevoegd hebt.
 
 #### Materiaal integratiefase
 
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+- [Heroku](https://www.heroku.com/)
+- [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 - [Resource](https://example.com)
 
 </details>
@@ -61,8 +68,9 @@ Focus sprint 11 - De focus van deze sprint ligt op het maken van multi-user omge
 
 ### Deze leertaak hoort bij het gedragscriterium:
 
-{benoem de betreffende gedrasgcriteria}
+P: Je combineert aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren.
+L: Je maakt aangeboden en zelf gevonden materie eigen en gebruikt dit bij leertaken, deelt ervaring binnen de squad.
 
 Deze opdracht is done als:
 
-[ ] - {beschrijf de definitions of done}
+[ ] - De chatroom staat live op heroku en is opgemaakt volgens de huisstijl van een opdrachtgever.
