@@ -12,9 +12,9 @@ const io = new Server(http);
 const port = process.env.PORT || 4242;
 // const apiUrl = 'https://whois.fdnd.nl/api/v1/squad?id=cldcspecf0z0o0bw59l8bwqim'
 
-const historySize = 20;
+const historySize = null;
 
-let history = [];
+let history = [0];
 let membersLoaded = false;
 let htmlMemberList = null;
 

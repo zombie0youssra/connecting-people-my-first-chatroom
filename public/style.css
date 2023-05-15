@@ -97,7 +97,10 @@ section{
     border-radius: 2em;
 }
 
+
 section form{
+    position: fixed;
+    overflow: hidden;
     margin-top: 12em;
     margin-left: 2em;
 }
@@ -108,7 +111,6 @@ section button{
 }
 
 section input{
-    border: none;
 }
 
 button img{
