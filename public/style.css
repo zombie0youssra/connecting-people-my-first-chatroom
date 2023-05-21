@@ -74,10 +74,7 @@ header img{
 }
 
 main {
-    margin: 0;
-    padding: 0;
-    min-height: 100vh;
-    min-width: 100vw;
+    margin-top: 2em;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -98,10 +95,13 @@ section {
     display: flex;
     flex-direction: column;
     align-items: center;
+    border-radius: 1em;
 }
 
 section ul{
+    margin-left: -10em;
     font-family: var(--broodtekst);
+    list-style: none;
     overflow: hidden;
     height: 18em;
 }
@@ -113,10 +113,16 @@ section h1{
 section button{
     background: none;
     border: none;
+    margin-top: 2em;
 }
 
-button img{
-    height: 1.6em;
-    width: auto;
+button i{
+    font-size: 18px;
+}
+
+section input{
+    margin-left: -2em;
+    border: none;
+    border-radius: 1em;
 }
 
