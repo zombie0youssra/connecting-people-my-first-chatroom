@@ -16,7 +16,8 @@
 ## Beschrijving
 
 <!-- Bij Beschrijving staat kort beschreven wat voor project het is en wat je hebt gemaakt -->
-<!-- Voeg een mooie poster visual toe 📸 -->
+<!-- Voeg een mooie poster visual toe 📸 --> <img width="344" alt="image" src="https://github.com/zombie0youssra/visual-chatroom/assets/112857270/19ee4022-600b-480e-9384-2580113ce9f0">
+
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
 ## Gebruik
