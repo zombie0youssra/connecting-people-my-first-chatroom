@@ -14,7 +14,7 @@ const port = process.env.PORT || 4242;
 
 const historySize = null;
 
-let history = [0];
+let history = [null];
 let membersLoaded = false;
 let htmlMemberList = null;
 
