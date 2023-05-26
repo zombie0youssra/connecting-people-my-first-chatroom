@@ -100,8 +100,10 @@ section {
 
 section ul{
     margin-left: -10em;
+    background-color: var(--interactive-el-color-var01);
     font-family: var(--broodtekst);
     list-style: none;
+    border-radius: 1em;
     overflow: hidden;
     height: 18em;
 }
