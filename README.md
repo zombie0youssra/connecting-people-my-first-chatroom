@@ -1,6 +1,6 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
+# My first Chatroom
 
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 
@@ -16,7 +16,8 @@
 ## Beschrijving
 
 <!-- Bij Beschrijving staat kort beschreven wat voor project het is en wat je hebt gemaakt -->
-<!-- Voeg een mooie poster visual toe 📸 -->
+<!-- Voeg een mooie poster visual toe 📸 --> <img width="344" alt="image" src="https://github.com/zombie0youssra/visual-chatroom/assets/112857270/19ee4022-600b-480e-9384-2580113ce9f0">
+
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
 ## Gebruik
