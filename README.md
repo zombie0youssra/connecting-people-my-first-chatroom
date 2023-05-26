@@ -15,13 +15,13 @@
 
 ## Beschrijving
 
-<!-- Bij Beschrijving staat kort beschreven wat voor project het is en wat je hebt gemaakt -->
+<!-- Bij Beschrijving staat kort beschreven wat voor project het is en wat je hebt gemaakt --> heb een chatroom gemaakt in de stijl van visual thinking van het hbo
 <!-- Voeg een mooie poster visual toe 📸 --> <img width="344" alt="image" src="https://github.com/zombie0youssra/visual-chatroom/assets/112857270/19ee4022-600b-480e-9384-2580113ce9f0">
 
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
 ## Gebruik
-
+je kan chatten met andere gebruikers als ze live zijn
 <!-- Bij Gebruik staat de user story, hoe het werkt en wat je er mee kan. -->
 
 ## Kenmerken
