@@ -24,7 +24,9 @@ heb een chatroom gemaakt in de stijl van visual thinking van het hbo
 je kan chatten met andere gebruikers als ze live zijn
 <!-- Bij Gebruik staat de user story, hoe het werkt en wat je er mee kan. -->
 
-## Kenmerken
+## schetsen
+![89636383-018E-4366-98D4-4CCFCF3DC3F4](https://github.com/zombie0youssra/visual-chatroom/assets/112857270/e3d809ba-f547-4f0c-a18e-e8ade5f511d1)
+
 
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? Misschien heb je iets met NodeJS gedaan, of heb je een framwork of library gebruikt? -->
 
