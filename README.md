@@ -15,12 +15,12 @@
 
 ## Beschrijving
 
-<!-- Bij Beschrijving staat kort beschreven wat voor project het is en wat je hebt gemaakt --> heb een chatroom gemaakt in de stijl van visual thinking van het hbo
+<!-- Bij Beschrijving staat kort beschreven wat voor project het is en wat je hebt gemaakt --> 
 <!-- Voeg een mooie poster visual toe 📸 --> <img width="344" alt="image" src="https://github.com/zombie0youssra/visual-chatroom/assets/112857270/19ee4022-600b-480e-9384-2580113ce9f0">
 
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
-## Gebruik
+heb een chatroom gemaakt in de stijl van visual thinking van het hbo
 je kan chatten met andere gebruikers als ze live zijn
 <!-- Bij Gebruik staat de user story, hoe het werkt en wat je er mee kan. -->
 
@@ -28,7 +28,19 @@ je kan chatten met andere gebruikers als ze live zijn
 
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? Misschien heb je iets met NodeJS gedaan, of heb je een framwork of library gebruikt? -->
 
-## Installatie
+### tools 🍔
+
+- goodnotes
+- visuel studio code
+
+### gebruikte technieken 🍟
+
+- javascript
+- node.js
+- express
+- socket.io
+- css
+
 
 <!-- Bij Instalatie staat hoe een andere developer aan jouw repo kan werken -->
 
